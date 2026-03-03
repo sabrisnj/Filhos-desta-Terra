@@ -1,0 +1,5 @@
+{
+  "name": "Aldeia Filhos Desta Terra",
+  "description": "App de agendamento, eventos e vivências para a Aldeia Filhos Desta Terra.",
+  "requestFramePermissions": ["geolocation"]
+}

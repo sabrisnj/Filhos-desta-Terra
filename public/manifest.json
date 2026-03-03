@@ -1,0 +1,21 @@
+{
+  "name": "Aldeia Filhos Desta Terra",
+  "short_name": "Aldeia",
+  "description": "Agendamento e Eventos - Aldeia Filhos Desta Terra",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F2ED",
+  "theme_color": "#2D4A3E",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/aldeia-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/aldeia-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
